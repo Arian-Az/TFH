@@ -1,4 +1,4 @@
-# TFH
+# Time for Health (TFH)
 TFH is my first software project since I started learning programming.
 TFH duty is to alarm you from over-working with your PC to protect your eyes and body with a musical alarm.
 The first version was developed using VB.NET and from the next updates it has changed to C#.
